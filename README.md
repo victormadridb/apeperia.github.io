@@ -1,6 +1,6 @@
 # <h1 align="center">Proyecto Apeperia<h1>
 
-proyecto Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
+Proyecto Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
 <p><a href= ">Modelo Figma</a></p>
 <hr>
 <h3>Apactación a diferentes dispositivos</h3>
